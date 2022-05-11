@@ -9,6 +9,12 @@ The service takes into account the limits of the exchange and trading instrument
 
 The Telegram bot is used as a user interface, it provides daily reports, portfolio freezing and hedging percentage management functions.
 
+Currently supported exchanges:
+- Binance
+- Coinbase
+
+Support for other exchanges can be added upon request.
+
 You can see an example of the service here: https://t.me/goosecrypto_bot
 
 To purchase a service, write to me: https://t.me/LexProfi
